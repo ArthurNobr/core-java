@@ -1,6 +1,6 @@
 # Overview
 
-Core java studies, from Object Orientation, Collections, Database connection, Exception handling, Threads e Functional programming. 
+Core java studies, from Object Orientation, Collections, Database connection, Exception handling, Threads, and Functional programming. 
 
 ## Related
 Course of youtube channel (PT-BR): [DevDojo](https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&ab_channel=DevDojo) <br />
